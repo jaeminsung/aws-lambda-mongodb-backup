@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.2.46",
+    "fs": "0.0.2",
+    "mongodb-backup": "^1.6.0",
+    "tar-fs": "^1.13.0"
+  }
+}
